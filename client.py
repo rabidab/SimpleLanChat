@@ -17,6 +17,7 @@ data = ''
 for item in sys.argv:
     data += item
     data += ' '
+print data
 
 HOST = '10.0.0.102' # hostname / IP of server
 PORT = 50008
