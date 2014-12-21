@@ -4,7 +4,7 @@
 
 import socket
 import os
-HOST = ''
+HOST = '10.0.0.102'
 PORT = 50008
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.bind((HOST, PORT))

@@ -18,7 +18,7 @@ for item in sys.argv:
     data += item
     data += ' '
 
-HOST = 'hostname' # hostname / IP of server
+HOST = '10.0.0.102' # hostname / IP of server
 PORT = 50008
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect((HOST, PORT))
