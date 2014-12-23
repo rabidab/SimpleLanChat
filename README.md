@@ -39,4 +39,4 @@ Source Code under MIT License
   `$ tail -f lanmessages`
 
 ## Future
-* Steam chat and input chat in same tab
+* Stream chat and input chat in same tab
