@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # client.py
 # Copyright (C) 2011 Ershad K <ershad92@gmail.com>
+# Copyright (C) 2014 Estu Fardani <estu@di.blankon.in>
 # Usage - python client.py <message>
 
 import socket
