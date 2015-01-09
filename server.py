@@ -16,7 +16,7 @@ while True:
     if not data: break
 
     #for mtail to function correctly
-    f = open('lanmessages', 'a')
+    f = open('lanmessages.txt', 'a')
     f.writelines( data + "\n")
     f.close();
     
